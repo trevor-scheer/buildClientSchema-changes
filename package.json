@@ -6,6 +6,7 @@
   "dependencies": {
     "graphql": "npm:graphql@latest",
     "graphql-post-14.2.1": "npm:graphql@14.2.1",
-    "graphql-pre-14.2.0": "npm:graphql@14.1.1"
+    "graphql-pre-14.2.0": "npm:graphql@14.1.1",
+    "graphql-14.2.0": "npm:graphql@14.2.0"
   }
 }
